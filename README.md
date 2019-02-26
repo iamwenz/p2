@@ -12,7 +12,7 @@ N/A
 3. Dropdown to indicate gender
 
 ## Class
-index.php,  results.php, logic.php, p2.css .
+Form Class
 
 ## Code style divergences
 I prefer to use one tab instead of 4
