@@ -1,0 +1,56 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+ font-family: Arial, Helvetica, sans-serif;
+ background-color: white;
+ padding: 0;
+ margin: 0;
+ font-size: 1em;
+}
+
+div {
+  margin-bottom: 0.25em;
+}
+
+.wrapper {
+ width: 900px;
+ margin:  0 auto;
+ padding: 80px;
+}
+
+.title {
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+.formBox {
+  border: 5px solid grey;
+  background-color: #ccc;
+  padding: 0.5em;
+}
+
+
+legend {
+  font-weight: bold;
+  font-size: 1.5em;
+  background-color: #ccc;
+  border: groove;
+  padding: 0.2em;
+}
+
+button {
+  font-size: 1em;
+}
+
+footer {
+ color: black;
+ padding: 1em;
+ text-align: center;
+ clear: both;
+  font-size: 1em;
+}
